@@ -1,0 +1,24 @@
+{
+  "originHash" : "0cdaae4574a72bd00edfca7fcb08e3ce374522105ec0611bfce4a40dd2041b33",
+  "pins" : [
+    {
+      "identity" : "jstoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wlsdms0122/JSToast",
+      "state" : {
+        "revision" : "f89cc46a62f6dadd7034ba37b775843653a22e8e",
+        "version" : "2.7.2"
+      }
+    },
+    {
+      "identity" : "runsquito",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chaltteok-studio/Runsquito",
+      "state" : {
+        "revision" : "d796c062419989e462b59e83cb13aa9a055a3d2c",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
